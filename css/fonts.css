@@ -1,0 +1,26 @@
+
+@font-face {
+	font-family: 'RetroMario Regular';
+	src: url('../fonts/fonte_fases/RetroMario-Regular.otf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Glodplay Alt Bold';
+	src: url('../fonts/fonte_textos/Goldplay Alt Bold.otf') format('truetype');
+}
+
+
+@font-face {
+	font-family: 'Glodplay Alt Medium';
+	src: url('../fonts/fonte_textos/Goldplay Alt Medium.otf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Glodplay Alt SemiBold';
+	src: url('../fonts/fonte_textos/Goldplay Alt SemiBold.otf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Olivier Demo';
+	src: url('../fonts/fonte_parabens/olivier_demo.ttf') format('truetype');
+}
