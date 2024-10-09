@@ -183,7 +183,7 @@ header img {
 	}
 	
 	.grid {
-		grid-template-columns: repeat(4, 10vh) !important;
+		grid-template-columns: repeat(4, 9vh) !important;
 	}
 }
 
